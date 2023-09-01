@@ -1,5 +1,6 @@
 ## Komputasi Cloud
-===
+---
+
 Komputasi cloud, atau sering disebut sebagai "cloud computing," adalah model penyediaan layanan komputasi berbasis internet yang memungkinkan akses fleksibel dan on-demand ke berbagai sumber daya komputasi seperti server, penyimpanan data, basis data, jaringan, perangkat lunak, dan lain-lain. Istilah "cloud" dalam komputasi cloud merujuk pada internet, yang sering digambarkan dalam diagram sebagai cloud berbentuk gumpalan atau cloud asap.
 
 Pentingnya komputasi cloud adalah bahwa ia memungkinkan organisasi dan individu untuk menggunakan sumber daya komputasi yang kuat tanpa perlu memiliki dan mengelola infrastruktur fisik sendiri. Beberapa karakteristik utama komputasi cloud adalah:
